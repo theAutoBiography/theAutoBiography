@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ramanan
+- 👀 I’m interested in implementing new ideas
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on a personal finance app
+- 📫 How to reach me: https://www.linkedin.com/in/ramanansiva/
